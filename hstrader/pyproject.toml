@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "hstrader"
+version = "1.0.0"
+description = "HsTrader SDK for Python"
+authors = ["Hybrid Solutions <dev@hybridsolutions.com>"]
+readme = "README.rst"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "*"
+pydantic = "*"
+websockets = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
