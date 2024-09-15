@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "hstrader"
-version = "1.0.0"
+version = "1.1.0"
 description = "HsTrader SDK for Python"
 authors = ["Hybrid Solutions <dev@hybridsolutions.com>"]
-readme = "README.rst"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.7"
