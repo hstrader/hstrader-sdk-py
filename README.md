@@ -6,7 +6,7 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-hstrader-sdk-py is the [HsTrader](https://hstrader.com) SDK for Python.
+[HsTrader](https://hstrader.com) SDK for Python.
 
 The HsTrader SDK requires a minimum version of Python 3.7.
 
